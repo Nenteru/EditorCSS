@@ -8,7 +8,7 @@ import javafx.scene.control.TextArea;
 import javafx.stage.FileChooser;
 
 import java.io.File;
-
+// Привет
 public class ViewerControll {
     @FXML
     private TextArea textCode;

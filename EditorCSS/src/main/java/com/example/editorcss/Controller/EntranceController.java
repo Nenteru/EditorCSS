@@ -20,6 +20,7 @@ public class EntranceController {
         stage.hide();
         stage.setScene(scene);
         stage.show();
+        stage.setTitle("Designer");
     }
 
     public void onProg(ActionEvent actionEvent) throws IOException {
