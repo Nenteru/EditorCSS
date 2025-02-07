@@ -1,5 +1,7 @@
 # EditorCSS
 ## Описание
+## Здесь была Никитина Екатерина Романовна
+
 Программный продукт предназначен для построения и отображения плана сети.
 - **Технологический стек:** Java, javafx.
 - [Проект](https://github.com/katyabarkalova/EditorCSS/releases/download/v1.0/EditorCSS.zip)
