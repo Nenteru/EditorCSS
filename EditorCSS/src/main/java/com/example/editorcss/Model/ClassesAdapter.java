@@ -16,7 +16,7 @@ public class ClassesAdapter {
     }
 
     /**
-     * Функция возращает список классов
+     * Функция возвращает список классов
      * @return список классов
      */
     public List<ClassStyle> getClassStyleList() {
