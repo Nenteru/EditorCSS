@@ -14,12 +14,12 @@ public class HelloApplication extends Application {
     /**
      * Функция отображения окна
      * @param stage Stage
-     * @throws IOException ощибка
+     * @throws IOException ошибка
      */
     @Override
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("Entrance.fxml"));
-        Scene scene = new Scene(fxmlLoader.load(), 300, 300);
+        Scene scene = new Scene(fxmlLoader.load(), 305, 305);
         stage.setTitle("Редактор CSS-стиля для fxml-форм");
         stage.setScene(scene);
         stage.show();
