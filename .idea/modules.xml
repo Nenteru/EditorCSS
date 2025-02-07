@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/EditorCSS.iml" filepath="$PROJECT_DIR$/.idea/EditorCSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EditorCSS/EditorCSS.iml" filepath="$PROJECT_DIR$/EditorCSS/EditorCSS.iml" />
     </modules>
   </component>
 </project>

@@ -21,7 +21,7 @@ public class ClassStyle {
     }
 
     /**
-     * имя класса
+     * Имя класса
      */
     private String Name;
 }
